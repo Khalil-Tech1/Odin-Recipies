@@ -1,0 +1,19 @@
+.index {
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #bbb;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    background-color: #bbb;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+    background-color: #bbb;
+    color: #3a0b77;
+}
